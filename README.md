@@ -38,6 +38,7 @@ OR
 - **Click** the *"GET"* button on iOS.
 
 ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/55f851d0-273b-42bc-872b-a120f3280a50)
+
 OR
 - **Click** the *"INSTALL"* button on Android.
 
@@ -45,7 +46,13 @@ OR
 
 ## Step 4: Authenticate Download
 A secuity prompt will appear on your phone asking if you want to download this application
-- **Input** the necessary information to authenticate the download (Password, Passcode, FaceID, etc.)
+- **Input** the necessary information to authenticate the download:
+
+  a. Enter your mobile device passcode.
+
+  b. Enter your email and password associated with Your Apple ID *(IOS)* or Google account *(Android)*.
+
+  c. Provide your fingerprint or facial recognition.
 ## Step 5: Download Process
 - **Wait** for Snapchat to download. (This may take several minutes)
 
