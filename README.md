@@ -5,7 +5,7 @@ Professor Aleshia Jefferson
 March 16, 2024
 ## Installing Snapchat on a Mobile Device
 This is a step-by-step instruction on how to install Snapchat on to your mobile device.
-### Before you install
+# Before you install
 - Must be of the age of 13 years-old and up
 - Access to iPhone or Android
 - Access to Internet and Wifi
