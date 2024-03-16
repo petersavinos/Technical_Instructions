@@ -19,12 +19,12 @@ This procedure is designed for iPhone and Android users who are interested in do
 - Understand that Snapchat offers in-app purchases
 - Understand that Snapchat users are vulnerable to cyberbulling
 ## Step 1: Open the App Store/Google Play Store
-- **Click** the *App Store* if using an iOS device.
+- **Click** the *App Store* icon if using an iOS device.
 
 ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/429929bc-73e9-4e38-8427-880db5c160ed)
 
 OR
-- **Click** the *Google Play Store* if using an Android Device.
+- **Click** the *Google Play Store* icon if using an Android Device.
 
 ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/15a70845-0588-4190-bd26-d0ba277a747d)
 
