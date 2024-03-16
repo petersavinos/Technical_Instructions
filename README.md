@@ -41,12 +41,12 @@ OR
 - Click on the Snapchat icon to open
 ## Step 6: Sign up for Snapchat (Skip if you have an existing account)
 - Click on **"Sign Up"**
-![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/d975f3eb-c363-48bb-88d7-96a346af2fc2)
+- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/d975f3eb-c363-48bb-88d7-96a346af2fc2)
 - Enter the necessary credentials in the designated areas provided
   (First and last name, username/email address, password, etc.)
 ## Step 7: Log into Snapchat
 - Click on **"Log In"**
-![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/a9b8b702-4759-4bef-afd1-3445a0e585c0)
+- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/a9b8b702-4759-4bef-afd1-3445a0e585c0)
 - Enter your username/email address
 - Enter your password
 **Optional:** Click on the check box "Save Login Info" if you would like to save your login credentials to your mobile device.
@@ -55,3 +55,5 @@ A series of messages will pop up to the screen.
 - Click **"Enable"** on the permissions you want to access
 ## Step 9: Explore Snapchat
 - Access snapchat's different features
+# Conclusion
+  The step-by-step instructions on how to install Snapchat on your mobile device ends here. If you are still struggling after these instructions or need more help with successfully downloading Snapchat, visit https://www.snapchat.com/download?purpose=snapchatdotcom&sp=snapchatdotcom. If you want more general information about the Snapchat app, visit https://www.snapchat.com/.
