@@ -1,4 +1,8 @@
 # WRD 204 Technical Instructions
+Peter Savinos
+WRD 204 - Technical Writing
+Professor Aleshia Jefferson
+March 16, 2024
 ## Installing Snapchat on a Mobile Device
 This is a step-by-step instruction on how to install Snapchat on to your mobile device.
 ### Before you install
@@ -9,13 +13,13 @@ This is a step-by-step instruction on how to install Snapchat on to your mobile 
 - Read the app's privacy policy
 - Understand that Snapchat offers in-app purchases
 - Understand that Snapchat users are vulnerable to cyberbulling
-##### Step 1: Open the App Store/Google Play Store
+#### Step 1: Open the App Store/Google Play Store
 - Click the App Store if using an iOS device
 - Click the Google Play Store if using an Android Device
-###### Step 2: Search for Snapchat
+#### Step 2: Search for Snapchat
 - Type "Snapchat" in the search bar
 - Click on the result shown below
-###### Step 3: Download Snapchat
+#### Step 3: Download Snapchat
 - Click the "GET" button on iOS
 - Click the "INSTALL" button on Android
 #### Step 4: Authenticate Download
