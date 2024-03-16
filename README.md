@@ -61,6 +61,7 @@ OR
 ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/a9b8b702-4759-4bef-afd1-3445a0e585c0)
 - Enter your username/email address
 - Enter your password
+
 **Optional:** Click on the check box "Save Login Info" if you would like to save your login credentials to your mobile device.
 ## Step 8: Configure Permissions
 A series of messages will pop up to the screen.
