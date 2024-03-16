@@ -105,7 +105,7 @@ Access Snapchat's different features: **(Reference *Example 9*)**
 - **Post** and browse stories.
 - **Locate** your friends on the snap map.
 
-![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/59493ddc-dff5-4324-bb2c-8772876108d0)
+<img src=https://github.com/petersavinos/Technical_Instructions/assets/163622902/59493ddc-dff5-4324-bb2c-8772876108d0" width="100" />
 
 *(**Example 9:** Snapchat Features)*
 
