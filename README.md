@@ -1,8 +1,8 @@
 # WRD 204 Technical Instructions
--Peter Savinos
--WRD 204 - Technical Writing
--Professor Aleshia Jefferson
--March 16, 2024
+Peter Savinos\n
+WRD 204 - Technical Writing\n
+Professor Aleshia Jefferson\n
+March 16, 2024\n
 # Installing Snapchat on a Mobile Device
 This is a step-by-step instruction on how to install Snapchat on to your mobile device.
 ## Before you install
