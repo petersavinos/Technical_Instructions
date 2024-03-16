@@ -11,7 +11,7 @@ This is a step-by-step instruction on how to install Snapchat on to your mobile 
 
 This procedure is designed for iPhone and Android users who are interested in downloading Snapchat. It provides a sequence of steps that can be easily followed by the reader and assure results to satisfy the user.
 ## Before you install
-- Must be of the age of 13 years-old and up
+- Must be the age of 13 years-old and up
 - Access to iPhone or Android
 - Access to Internet and Wifi
 ## Safety Information
