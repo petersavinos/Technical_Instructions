@@ -97,8 +97,8 @@ The Snapchat icon will appear in the app library.
 
 ***Optional:** Click on the check box "Save Login Info" if you would like to save your login credentials to your mobile device.*
 ## Step 9: Configure Permissions
-A series of questions will pop up to the screen.
-- **Click** *"Turn On"* on the permissions you want to access. **(Reference *Example 9*)**
+A series of questions will pop up to the screen, asking if you want access to different permissions. *(camera, microphone, location, etc.)*
+- **Click** *"Turn On"* on the permissions you want access to. **(Reference *Example 9*)**
 
 ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/23a4ea6f-780a-4157-ba1d-c4ddc97673bf)
 
