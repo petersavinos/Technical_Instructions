@@ -29,6 +29,7 @@ OR
 ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/15a70845-0588-4190-bd26-d0ba277a747d)
 
 ## Step 2: Search for Snapchat
+Locate the search bar at the bottom right of the display.
 - **Type** *"Snapchat"* in the search bar.
 - **Click** on the result shown below.
 
@@ -48,11 +49,11 @@ OR
 A secuity prompt will appear on your phone asking if you want to download this application
 - **Input** the necessary information to authenticate the download:
 
-  a. Enter your mobile device passcode.
+    a. Enter your mobile device passcode.
 
-  b. Enter your email and password associated with Your Apple ID *(IOS)* or Google account *(Android)*.
+    b. Enter your email and password associated with Your Apple ID *(IOS)* or Google account *(Android)*.
 
-  c. Provide your fingerprint or facial recognition.
+    c. Provide your fingerprint or facial recognition.
 ## Step 5: Download Process
 - **Wait** for Snapchat to download. (This may take several minutes)
 
