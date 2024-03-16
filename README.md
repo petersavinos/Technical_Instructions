@@ -11,11 +11,11 @@ This is a step-by-step instruction on how to install Snapchat on to your mobile 
 
 This procedure is designed for iPhone and Android users who are interested in downloading Snapchat. It provides a sequence of steps that can be easily followed by the reader and assure results to satisfy the user.
 ## Before you Begin
-- Must be the age of 13 years-old and up
+- Must be the age of 13 years-old and up **(Reference the *Additional Sources* Section)**
 - Access to iPhone or Android
 - Access to Internet and Wifi
 ## Safety Information
-- Read the app's privacy policy
+- Read the app's privacy policy **(Reference the *Additional Sources* Section)**
 - Understand that Snapchat offers in-app purchases
 - Understand that Snapchat users are vulnerable to cyberbulling
 ## Step 1: Open the App Store/Google Play Store
@@ -117,3 +117,9 @@ Access Snapchat's different features: **(Reference *Example 10*)**
 
 # Conclusion
   The step-by-step instructions on how to install Snapchat on your mobile device ends here. If you are still struggling after these instructions or need more help with successfully downloading Snapchat, visit https://www.snapchat.com/download?purpose=snapchatdotcom&sp=snapchatdotcom. If you want more general information about the Snapchat app, visit https://www.snapchat.com/.
+
+# Additional Sources
+  https://values.snap.com/privacy/privacy-policy
+
+  https://snap.com/en-GB/terms
+
