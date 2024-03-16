@@ -41,12 +41,12 @@ OR
 - Click on the Snapchat icon to open
 ## Step 6: Sign up for Snapchat (Skip if you have an existing account)
 - Click on **"Sign Up"**
-- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/204dc98c-2858-4e68-b029-7dee1f9cea88)
+![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/d975f3eb-c363-48bb-88d7-96a346af2fc2)
 - Enter the necessary credentials in the designated areas provided
   (First and last name, username/email address, password, etc.)
 ## Step 7: Log into Snapchat
 - Click on **"Log In"**
-- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/ecd44760-9e1c-41ff-ade4-3950b121f021)
+![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/a9b8b702-4759-4bef-afd1-3445a0e585c0)
 - Enter your username/email address
 - Enter your password
 **Optional:** Click on the check box "Save Login Info" if you would like to save your login credentials to your mobile device.
