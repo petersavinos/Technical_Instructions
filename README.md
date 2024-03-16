@@ -15,10 +15,12 @@ This is a step-by-step instruction on how to install Snapchat on to your mobile 
 - Understand that Snapchat users are vulnerable to cyberbulling
 ## Step 1: Open the App Store/Google Play Store
 - Click the **App Store** if using an iOS device
-![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/429929bc-73e9-4e38-8427-880db5c160ed)
+- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/429929bc-73e9-4e38-8427-880db5c160ed)
 
 OR
 - Click the **Google Play Store** if using an Android Device
+- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/15a70845-0588-4190-bd26-d0ba277a747d)
+
 ## Step 2: Search for Snapchat
 - Type **"Snapchat"** in the search bar
 - Click on the result shown below
