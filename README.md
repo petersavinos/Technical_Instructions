@@ -100,9 +100,9 @@ The Snapchat icon will appear in the app library.
 A series of questions will pop up to the screen.
 - **Click** *"Turn On"* on the permissions you want to access. **(Reference *Example 9*)**
 
-![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/3ab5b5d3-3704-49c5-946a-a47ea567a8fb)
+![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/23a4ea6f-780a-4157-ba1d-c4ddc97673bf)
 
-*(**Example 9: Permission Pop-up)*
+*(**Example 9:** Permission Pop-up)*
 
 ## Step 10: Explore Snapchat
 Access Snapchat's different features: **(Reference *Example 10*)**
