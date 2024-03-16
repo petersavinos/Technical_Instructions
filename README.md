@@ -47,26 +47,26 @@ OR
 
 ## Step 4: Authenticate Download
 A secuity prompt will appear on your phone asking if you want to download this application
-- **Input** the necessary information to authenticate the download:
+- **Input** the necessary information to authenticate the download: *(Follow whichever applies)*
 
-    a. Enter your mobile device passcode.
+    a. **Enter** your mobile device *passcode*.
 
-    b. Enter your email and password associated with Your Apple ID *(IOS)* or Google account *(Android)*.
+    b. **Enter** your *email* and *password* associated with Your Apple ID *(IOS)* or Google account *(Android)*.
 
-    c. Provide your fingerprint or facial recognition.
+    c. **Provide** your *fingerprint* or *facial recognition*.
 ## Step 5: Download Process
-- **Wait** for Snapchat to download. (This may take several minutes)
+- **Wait** for Snapchat to download. *(This may take several minutes)*
 
 The Snapchat icon will appear in the app library.
 ## Step 6: Open Snapchat
-- **Locate** Snapchat in the app library.
+- **Locate** Snapchat in the *app library*.
 - **Click** on the *Snapchat icon* to open.
 ## Step 7: Sign up for Snapchat (Skip if you have an existing account)
 - **Click** on **"Sign Up"**.
 
 ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/d975f3eb-c363-48bb-88d7-96a346af2fc2)
 - **Enter** the necessary credentials in the designated areas provided.
-  (First and last name, username/email address, password, etc.)
+  *(First and last name, username/email address, password, etc.)*
 ## Step 8: Log into Snapchat
 - Click on **"Log In"**.
 
@@ -74,14 +74,14 @@ The Snapchat icon will appear in the app library.
 - **Enter** your username/email address.
 - **Enter** your password.
 
-**Optional:** Click on the check box "Save Login Info" if you would like to save your login credentials to your mobile device.
+***Optional:** Click on the check box "Save Login Info" if you would like to save your login credentials to your mobile device.*
 ## Step 9: Configure Permissions
-A series of messages will pop up to the screen.
-- Click **"Enable"** on the permissions you want to access.
+A series of questions will pop up to the screen.
+- **Click** *"Enable"* on the permissions you want to access.
 ## Step 10: Explore Snapchat
 Access Snapchat's different features:
-- Send and recieve snaps with friends.
-- Post and browse stories.
-- Locate your friends on the snap map.
+- **Send** and recieve snaps with friends.
+- **Post** and browse stories.
+- **Locate** your friends on the snap map.
 # Conclusion
   The step-by-step instructions on how to install Snapchat on your mobile device ends here. If you are still struggling after these instructions or need more help with successfully downloading Snapchat, visit https://www.snapchat.com/download?purpose=snapchatdotcom&sp=snapchatdotcom. If you want more general information about the Snapchat app, visit https://www.snapchat.com/.
