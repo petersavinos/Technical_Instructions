@@ -24,9 +24,15 @@ OR
 ## Step 2: Search for Snapchat
 - Type **"Snapchat"** in the search bar
 - Click on the result shown below
+- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/969ea8db-fdc6-45a1-9711-241d97956c5b)
+
 ## Step 3: Download Snapchat
 - Click the **"GET"** button on iOS
+- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/55f851d0-273b-42bc-872b-a120f3280a50)
+OR
 - Click the **"INSTALL"** button on Android
+- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/9124ef15-983e-460a-9192-b847779e02ac)
+
 ## Step 4: Authenticate Download
 - A secuity prompt will appear on your phone asking if you want to download this application
 - Input the necessary information to authenticate the download (Password, Passcode, FaceID, etc.)
@@ -35,10 +41,12 @@ OR
 - Click on the Snapchat icon to open
 ## Step 6: Sign up for Snapchat (Skip if you have an existing account)
 - Click on **"Sign Up"**
+- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/204dc98c-2858-4e68-b029-7dee1f9cea88)
 - Enter the necessary credentials in the designated areas provided
   (First and last name, username/email address, password, etc.)
 ## Step 7: Log into Snapchat
 - Click on **"Log In"**
+- ![image](https://github.com/petersavinos/Technical_Instructions/assets/163622902/ecd44760-9e1c-41ff-ade4-3950b121f021)
 - Enter your username/email address
 - Enter your password
 **Optional:** Click on the check box "Save Login Info" if you would like to save your login credentials to your mobile device.
