@@ -8,6 +8,8 @@ Professor Aleshia Jefferson
 March 16, 2024
 # Installing Snapchat on a Mobile Device
 This is a step-by-step instruction on how to install Snapchat on to your mobile device.
+
+This procedure is designed for iPhone and Android users who are interested in downloading Snapchat. It provides a sequence of steps that can be easily followed by the reader and assure results to satisfy the user.
 ## Before you install
 - Must be of the age of 13 years-old and up
 - Access to iPhone or Android
@@ -57,6 +59,9 @@ OR
 A series of messages will pop up to the screen.
 - Click **"Enable"** on the permissions you want to access
 ## Step 9: Explore Snapchat
-- Access snapchat's different features
+Access Snapchat's different features
+- Send and recieve snaps with friends
+- Post and browse stories
+- Locate your friends on the snap map.
 # Conclusion
   The step-by-step instructions on how to install Snapchat on your mobile device ends here. If you are still struggling after these instructions or need more help with successfully downloading Snapchat, visit https://www.snapchat.com/download?purpose=snapchatdotcom&sp=snapchatdotcom. If you want more general information about the Snapchat app, visit https://www.snapchat.com/.
